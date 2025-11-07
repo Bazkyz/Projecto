@@ -27,7 +27,8 @@ public class Main {
 
             }
 
-            //BUFFER ES CUANDO UNAS LETRAS SE QUEDAN SIN GUARDAR EN NINGUN SITIO I LUEGO PONIENDOLO EN UN ENTRADA DE TEXTO SE UARDAN HAY
+            //BUFFER ES CUANDO UNAS LETRAS SE QUEDAN SIN GUARDAR EN NINGUN SITIO I LUEGO PONIENDOLO
+            // EN UN ENTRADA DE TEXTO SE GUARDAN HAY
 
 
 
@@ -43,6 +44,8 @@ public class Main {
             }
 
         } while (intento != numeroSecreto);
+
+        System.out.println("Esto funciona");
 
 
 
