@@ -47,10 +47,7 @@ public class Main {
 
         System.out.println("Esto funciona");
 
-        System.out.println("Segunda prueba");
-
-
-        System.out.println("Tercera prueba:");
+        System.out.println("Segunda prueba")
 
 
 
